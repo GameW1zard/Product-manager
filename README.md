@@ -22,7 +22,7 @@
  
  ## Usage 
  Run it with node server.js and when running in the CLI it will ask you questions on what you would like to do with your database!
- Demo video [here]()
+ Demo video [here](https://youtu.be/usG3cEXZ25A)
  
  ## Contribution 
  Riven Loya Main work and implmentation
